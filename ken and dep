@@ -1,1 +1,11 @@
 
+PS C:\Users\yashwanth kuamr\ken> git clone https://github.com/konguveljk0707/JK.git
+Cloning into 'JK'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), 4.06 MiB | 4.85 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+PS C:\Users\yashwanth kuamr\ken> 
+
